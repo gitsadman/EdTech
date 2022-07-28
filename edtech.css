@@ -1,3 +1,10 @@
-.buttoncolor{
-    
+.slidersize {
+    width: 1320px;
+    height: 700px;
+
 }
+
+.carousel-inner img {
+    margin: auto;
+  }
+
