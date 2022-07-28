@@ -24,3 +24,36 @@
 .text-decoration {
     text-decoration: none;
 }
+
+#card-text {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 60px;
+}
+
+.text {
+    color: #777777;
+}
+
+.barsize {
+    height: 300px;
+    border-radius: 5px;
+}
+.barcolor {
+   background-color: #289BDE; 
+}
+
+.readheight {
+    height: 300px;
+}
+
+.textbtn {
+    color: 
+    #289BDE;
+}
+
+.btnsize{
+    width: 199px;
+    height: 56px;
+}
