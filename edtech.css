@@ -37,8 +37,9 @@
 }
 
 .barsize {
-    height: 300px;
+    min-height: 300px;
     border-radius: 5px;
+    width: 80%;
 }
 .barcolor {
    background-color: #289BDE; 
