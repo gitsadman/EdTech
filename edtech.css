@@ -76,3 +76,25 @@
 .borderradius {
     border-radius: 5px;
 }
+
+footer {
+    height: 472px;
+    background-color: rgb(230, 136, 136);
+    color: #E8E8E8;
+}
+
+#icon {
+    width: 50px;
+    height: 25px;
+}
+
+@media screen and (max-width: 600px) {
+    #title_message {
+      visibility: hidden;
+      clear: both;
+      float: left;
+      margin: 10px auto 5px 20px;
+      width: 28%;
+      display: none;
+    }
+  }
